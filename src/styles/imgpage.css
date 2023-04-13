@@ -1,0 +1,52 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  width: 100%;
+}
+.news {
+  display: flex;
+  justify-content: center;
+}
+
+.xx {
+  font-size: 18px;
+  border: 1px solid red;
+  width: 600px;
+  height: 300px;
+  border-radius: 20px;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(red, blue, green, yellow);
+}
+.center {
+  text-align: center;
+  font-size: 20px;
+}
+
+nav {
+  background-color: blue;
+  height: 40px;
+}
+.menu {
+  display: flex;
+  justify-content: flex-end;
+}
+.cc {
+  text-decoration: none;
+  color: red;
+  height: 40px;
+  margin-top: 8px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-size: 20px;
+  color: white;
+}
+h1 {
+  margin-right: 450px;
+  margin-top: 8px;
+  color: white;
+}
